@@ -39,3 +39,6 @@ Contribute to the legend: Fork the repository and add your own features or impro
 Dive into the world of strong passwords with the Password Kraken! Remember, a secure password is your first line of defense in the digital world.
 
 P.S. Check out the README.md file for detailed instructions and customization options. Let's build a more secure online community together!
+
+
+![image](https://github.com/Jairo1031/passwordgenerator/assets/74851511/fcb55e86-f9f1-4235-a146-35b8d7265ba7)
